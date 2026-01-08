@@ -22,7 +22,7 @@ This project would give students a mobile-friendly(responsive) personal résumé
 ### 2. Clone your forked repo(not your instructor's) to your local machine
 - Open your terminal or command line at any location. Then enter the following commands(Windows version is shown. Use ls instead of dir in Mac or Linux) in the order given.
 - <img width="522" height="46" alt="2026-01-06 16-07-21" src="https://github.com/user-attachments/assets/6e3f876b-8d46-4a78-9bd9-375c46405ee3" />
-- Verify by entering <img width="616" height="37" alt="2026-01-06 16-15-01" src="https://github.com/user-attachments/assets/47216645-0f4d-4461-a4e8-232d9f8a75ac" /> to get the output below.
+- Verify by entering <img width="300" height="18" alt="2026-01-06 16-15-01" src="https://github.com/user-attachments/assets/47216645-0f4d-4461-a4e8-232d9f8a75ac" /> to get the output below.
 - <img width="458" height="35" alt="2026-01-06 16-25-26" src="https://github.com/user-attachments/assets/8d594247-a6d0-40d2-a83c-2f7a6a21c348" />
 ### 3. Edit Your Resume
 - Open any of the HTML files (resume_1.html, resume_2.html, or resume_3.html) in your text editor
