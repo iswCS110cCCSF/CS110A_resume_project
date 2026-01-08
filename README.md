@@ -1,28 +1,27 @@
 # CS110A_resume_project
-This is the template project created for CS110A students as an option choice for their midterm project. This project provides a **mobile-friendly personal résumé webpage** built with HTML and CSS. You’ll edit this template to make it your own and publish it online using **GitHub Pages**.
+This project would give students a mobile-friendly(responsive) personal résumé webpage built with HTML and CSS. You’ll edit the given template to make it your own and publish it online using **GitHub Pages**.
 
 ## What You’ll Need
-- A **GitHub account** (create one at [https://github.com](https://github.com))
-- **Git** installed on your computer
+- A free **GitHub account** (create one at [https://github.com](https://github.com))
+- **Git** installed on your computer. Talk to me if you have a Chromebook or don't have a computer.
   - **Windows:** [Download Git](https://git-scm.com/download/win)
-  - **macOS:** `brew install git` (or use the Xcode Command Line Tools)
+  - **macOS:** at the mac terminal enter, `brew install git` (or use the Xcode Command Line Tools)
   - **Linux (Debian/Ubuntu):** `sudo apt install git`
+  - **Talk to me** if any of above is not your OS or you have issues installing
 - A terminal (Command Prompt, PowerShell, macOS Terminal, or Linux shell)
 - A text editor such as Notepad++
 
 ## Steps to Create and Publish Your Resume
 
-### 1. Clone the Template.
-At your operating system's terminal enter the following command in the order given. After changing directory (cd CS110A_resume_project) dir(in Windows) or ls(Mac, Linux) to view the content to verify. Then take a screenshot as a part of your midterm project submission. 
+### 1. Fork the Instructor Repository (on GitHub).
+- In your browser, open the Instructor's template repository(repo), https://github.com/iswCS110cCCSF/CS110A_resume_project.git  
+- Click "Fork" at top-right.
+- Login: You will be asked to login to your GitHub account.
+- GitHub will create your own resume repo, https://github.com/YOUR_GITHUB_USERNAME/CS110A_resume_project
 
-```
->git clone https://github.com/iswCS110cCCSF/CS110A_resume_project.git
->cd CS110A_resume_project
->dir/ls
-```
-
-### 2. Edit Your Resume
-Open any of the HTML files (resume_1.html, resume_2.html, or resume_3.html) in your text editor.
+### 2. Clone your forked repo(not your instructor's) to your local machine
+- Open your terminal or command line at any location. Then enter the following commands(Windows version is shown. Use ls instead of dir in Mac or Linux) in the order given.
+- <img width="458" height="35" alt="2026-01-06 16-25-26" src="https://github.com/user-attachments/assets/8d594247-a6d0-40d2-a83c-2f7a6a21c348" />
 
 Update:
 Name, email, and links
