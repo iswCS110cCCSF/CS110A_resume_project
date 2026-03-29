@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Responsive Resume 1</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div>
+        <h1>Nalphonsus Arias</h1>
+        <p>narias6@mail.ccsf.edu | (415) 286-8732</p>
+        <p><a href="#">https://www.linkedin.com/in/nalphonsus-arias-a8292537a/</a></p>
+      </div>
+      <img src="file:///Users/nalphonsusarias/Downloads/bloom_fan_art_drawn_by_me_ig_gellosart.html" alt="Profile Photo" />
+    </header>
+    <section>
+      <h2>Education</h2>
+      <p>CS110A Student at City College of San Francisco</p>
+    </section>
+    <section>
+      <h2>Experience</h2>
+      <p>City College of San Francisco - Use Python for assignments.</p>
+    </section>
+    <section>
+      <h2>Projects</h2>
+      <p> Created a Midterm Project using GitHub. </p>
+    </section>
+  </div>
+</body>
+</html>
